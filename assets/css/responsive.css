@@ -1,0 +1,46 @@
+@media (min-width: 1024px) {
+
+}
+
+@media (max-width: 1023px) {
+    section {
+        padding: 8rem 4%;
+    }
+
+    .banner .image img {
+        margin-top: 1.8rem;
+    }
+
+    .banner .heading {
+        display: none;
+    }
+
+    .about {
+        display: block;
+    }
+
+    .about .image img {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1023px) {
+
+}
+
+@media (max-width: 739px) {
+    header .navbar a {
+        display: none;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+        padding: 2rem 1.5rem;
+        
+    }
+}
