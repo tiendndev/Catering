@@ -11,10 +11,6 @@
         margin-top: 1.8rem;
     }
 
-    .banner .heading {
-        display: none;
-    }
-
     .about {
         display: block;
     }
@@ -34,6 +30,10 @@
 
 @media (max-width: 739px) {
     header .navbar a {
+        display: none;
+    }
+
+    .banner .heading {
         display: none;
     }
 

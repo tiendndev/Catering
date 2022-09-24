@@ -78,8 +78,8 @@ header .logo a:hover {
 
 .banner .heading h3 {
     font-size: 3.5rem;
-    letter-spacing: .2rem;
-    color: var(--gray);
+    letter-spacing: .4rem;
+    opacity: .7;
     font-weight: 500;
 }
 
